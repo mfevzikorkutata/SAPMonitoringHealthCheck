@@ -6,3 +6,5 @@ Your Java system (WebLogic, SOA Suite, OSB… etc.) is connecting to SAP and you
 Read the complete blog tutorial here:
 
 https://medium.com/wlsdmforweblogic/how-to-monitor-sap-system-connection-health-and-create-alert-mechanism-af85985907de
+
+![SAPMonitoringHealthCheck]([http://url/to/img.png](https://miro.medium.com/max/1400/1*oTI7YrossqqOtuFx_jPGew.png))
