@@ -7,4 +7,4 @@ Read the complete blog tutorial here:
 
 https://medium.com/wlsdmforweblogic/how-to-monitor-sap-system-connection-health-and-create-alert-mechanism-af85985907de
 
-![SAPMonitoringHealthCheck]([https://miro.medium.com/max/1400/1*oTI7YrossqqOtuFx_jPGew.png])
+![SAPMonitoringHealthCheck](https://miro.medium.com/max/1400/1*oTI7YrossqqOtuFx_jPGew.png)
